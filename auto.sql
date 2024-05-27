@@ -13,4 +13,5 @@ primary key(id)
 );
 
 #Selecionar tabela
+use auto;
 select * from carro;
